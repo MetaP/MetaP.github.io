@@ -1,0 +1,2 @@
+{"rule":"A_INFINITIVE","sentence":"^\\QThe page further has a submit and a cancel button  and with   is loaded by has a\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QAbstraction\nAbstraction is key.\\E$"}
