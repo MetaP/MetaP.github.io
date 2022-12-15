@@ -11,12 +11,12 @@ This site gives an overview of what can be found in the GitHub repositories of [
 Only two of the repositories target the public.
 
 
-## AngularFrame
+### AngularFrame
 This is currently the most active project. Its goal is to share knowledge about domain-driven GUI development with Angular.
 - [Documenation](https://metap.github.io/AngularFrame) GitHub pages
 - [Repository](https://github.com/MetaP/AngularFrame) GitHub project  
 
-## vs-code-configurable-generator
+### vs-code-configurable-generator
 This GitHub repository contains the code for the Visual Studio Code (VSCode) add-in [MetaP Configurable Generator](https://marketplace.visualstudio.com/items?itemName=metap.configurable-generator). It adds a "Generate" menu item to the context menu of XML files in the VSCode explorer. The command that is triggered by that item can be configured.
 
 It was developed to start a GUI generator with the clicked XML file as input. The generator itself is developed in C# and produces Angular components for a custom Angular GUI framework.
