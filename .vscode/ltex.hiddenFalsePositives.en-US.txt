@@ -1,3 +1,4 @@
 {"rule":"A_INFINITIVE","sentence":"^\\QThe page further has a submit and a cancel button  and with   is loaded by has a\\E$"}
 {"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QAbstraction\nAbstraction is key.\\E$"}
 {"rule":"ENGLISH_WORD_REPEAT_RULE","sentence":"^\\QWidgets\nWidgets interact\\E$"}
+{"rule":"EN_SPECIFIC_CASE","sentence":"^\\QOn the world wide web it is easy to find the answer to concrete questions.\\E$"}
