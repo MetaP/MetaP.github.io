@@ -5,15 +5,15 @@ body {
 }
 
 h1 {
-    color: blue;
+    color: royalblue;
 }
 
 span.concept-definition {
-    font-weight: 800;
-    font-style: italic;
+    font-weight: 700;
+    color: lightseagreen;
 }
 
 span.concept-reference {
-    font-weight: 400;
-    font-style: italic;
+    font-weight: 300;
+    color: lightseagreen;
 }
