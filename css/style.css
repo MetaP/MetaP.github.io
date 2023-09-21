@@ -1,0 +1,15 @@
+/*  */
+
+h1 {
+    color: blue;
+}
+
+span.concept-definition {
+    font-weight: bold;
+    font-style: italic;
+}
+
+span.concept-refernce {
+    font-weight: bolder;
+    font-style: italic;
+}
