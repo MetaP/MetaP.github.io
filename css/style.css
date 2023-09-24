@@ -22,6 +22,11 @@ span.concept-reference {
     background-color: lightcyan;
 }
 
+.project-name {
+    font-weight: 700;
+    color: lightseagreen;
+}
+
 .page-footer {
     background-color: lightcyan;
 }
