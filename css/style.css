@@ -17,3 +17,16 @@ span.concept-reference {
     font-weight: 300;
     color: lightseagreen;
 }
+
+.page-header {
+    background-color: lightcyan;
+}
+
+.page-footer {
+    background-color: lightcyan;
+}
+
+.page-footer-owner {
+    display: block;
+    font-weight: bold;
+}
